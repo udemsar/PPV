@@ -16,7 +16,7 @@ with one segment, provided as One4Dsegment.csv. Another example is a trajecotry 
 segments, given in the file Three4Dsegments.csv.
 
 The repository also contains results from these two examples (all remaining .csv files) 
-as well as a Voxler file PPV_Test_Segments.voxb, which visualises the results using the
+as well as a Voxler file PPV_Test_Segments.voxb (zipped), which visualises the results using the
 3D volumetric visualisation environment Voxler (Golden Software).
 
 A faster implementation of the code is integrated into the wildlifeTG R package, available at: 
